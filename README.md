@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 The tool expects JSON stat dumps from the CoD API exporter I run locally. If the directory is empty or missing, it'll tell you and exit clean.
 
-<!-- last-checked: 2026-10-09 -->
+<!-- last-checked: 2026-10-10 -->
